@@ -1,0 +1,1 @@
+This database is dedicated to gathering and reporting local Mpox virus (formerly known as Monkeypox Virus) data for applicable states within the United States. A total of 32 states and Washington D.C. reported local Mpox data at a range of local geographies. Mpox data includes mpox case numbers and/or mpox vaccine administration numbers. 
