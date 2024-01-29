@@ -1,6 +1,6 @@
 Repository topic: Mpox Virus (formerly known as Monkeypox Virus) case prevalence and vaccine administration data across the United States (US) per local geography level. 
 
-Repository methodology: The methodology for this repository is primarily data collection. Mpox data was collected by combing US state health department's websites. If mpox data was present at the local level (I.e. County level), then that information was gathered and collected into a single database. Mpox data includes raw case numbers and raw vaccine administration. A total of 32 states and Washington D.C. supplied local level mpox data in some form. 
+Repository methodology: The methodology for this repository is primarily data collection. Mpox data was collected by combing US state health department's websites. If mpox data was present at the local level (I.e. County level), then that information was gathered and collected into a single database. Mpox data includes raw case numbers and raw vaccine administration numbers. A total of 32 states and Washington D.C. supplied local level mpox data in some form. 
 
 Repository overview: This database is dedicated to gathering and reporting local Mpox virus (formerly known as Monkeypox Virus) data for applicable states within the United States. A total of 32 states and Washington D.C. reported local Mpox data at a range of local geographies. Local geographies range from county level, health service area level, to ward level. Mpox data includes mpox case numbers and/or mpox vaccine administration numbers.
 
